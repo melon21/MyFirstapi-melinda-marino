@@ -1,0 +1,16 @@
+C:\Users\Melon\Desktop\.Net Api\Api1\obj\Debug\netcoreapp2.2\Api1.csprojAssemblyReference.cache
+C:\Users\Melon\Desktop\.Net Api\Api1\obj\Debug\netcoreapp2.2\Api1.RazorAssemblyInfo.cache
+C:\Users\Melon\Desktop\.Net Api\Api1\obj\Debug\netcoreapp2.2\Api1.RazorAssemblyInfo.cs
+C:\Users\Melon\Desktop\.Net Api\Api1\obj\Debug\netcoreapp2.2\Api1.AssemblyInfoInputs.cache
+C:\Users\Melon\Desktop\.Net Api\Api1\obj\Debug\netcoreapp2.2\Api1.AssemblyInfo.cs
+C:\Users\Melon\Desktop\.Net Api\Api1\obj\Debug\netcoreapp2.2\Api1.dll
+C:\Users\Melon\Desktop\.Net Api\Api1\obj\Debug\netcoreapp2.2\Api1.pdb
+C:\Users\Melon\Desktop\.Net Api\Api1\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Melon\Desktop\.Net Api\Api1\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Melon\Desktop\.Net Api\Api1\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Melon\Desktop\.Net Api\Api1\bin\Debug\netcoreapp2.2\Api1.deps.json
+C:\Users\Melon\Desktop\.Net Api\Api1\bin\Debug\netcoreapp2.2\Api1.runtimeconfig.json
+C:\Users\Melon\Desktop\.Net Api\Api1\bin\Debug\netcoreapp2.2\Api1.runtimeconfig.dev.json
+C:\Users\Melon\Desktop\.Net Api\Api1\bin\Debug\netcoreapp2.2\Api1.dll
+C:\Users\Melon\Desktop\.Net Api\Api1\bin\Debug\netcoreapp2.2\Api1.pdb
+C:\Users\Melon\Desktop\.Net Api\Api1\obj\Debug\netcoreapp2.2\Api1.RazorTargetAssemblyInfo.cache
